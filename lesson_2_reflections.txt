@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do this?
+When you initialize a repository it create a .git hidden file to store commits. You need to do it to create the repository and it can save commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+I imagine it as off to the side. Almost like a work bench that I would set up tools and whatnot before starting a project. It allows me to see what is about the be commited.
