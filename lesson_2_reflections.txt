@@ -15,3 +15,6 @@ They help to see how each of the node interacts with one another.
 
 What is the result of merging two branches together? Why do we represent it in the diargram the  way we do?
 Merging two branches will allow multiple branches to be merged into one. If two people have made commits on different branches the merging allows them to create one master branch. It is represent in a the way it was to show how the commits are connected. 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pro are you don't have to do it manually, cons are you are letting Git decide on which conflicts to keep.
