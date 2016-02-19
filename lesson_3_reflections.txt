@@ -12,3 +12,7 @@ You would use fork to create a repo and clone it to you local machine to make ch
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is if you are working offline you can access the lastest changes that had been made before you lost a connection.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+From experience the GitHub and Git method would remove stress on a group of programmers by allowing each person to view and make changes on their own branches. Pull requests would be merged after review. 
+The other option of trying to create and save files over a flash drive of name conventions leaves out important details about changes.
