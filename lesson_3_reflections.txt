@@ -9,3 +9,6 @@ Fork create repos on your GitHub profile that you can push onto.
 Clones are copies of repos that you acquire from GitHub profiles.
 Branches are in repos that are versions of the master branch.
 You would use fork to create a repo and clone it to you local machine to make changes. Branches are for prototyping code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit is if you are working offline you can access the lastest changes that had been made before you lost a connection.
