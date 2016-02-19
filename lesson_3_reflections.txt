@@ -16,3 +16,6 @@ The benefit is if you are working offline you can access the lastest changes tha
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 From experience the GitHub and Git method would remove stress on a group of programmers by allowing each person to view and make changes on their own branches. Pull requests would be merged after review. 
 The other option of trying to create and save files over a flash drive of name conventions leaves out important details about changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would make a change in a separate branch when the change involves a new concept. With adding a branch you don't have to worry about the master not being able to run anymore.
